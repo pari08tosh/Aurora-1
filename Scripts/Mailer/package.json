@@ -1,0 +1,16 @@
+{
+  "name": "aurora_mailer",
+  "version": "1.0.0",
+  "description": "Script to read info of students from xml file, register them and send their credentials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "mysql": "^2.16.0",
+    "nodemailer": "^4.6.8"
+  }
+}
